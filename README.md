@@ -28,7 +28,7 @@ DSCT/
 
 ---
 
-## Link tải (hãy thay bằng link thực tế của bạn)
+## Link download:
 
 * **Dataset** (Google Drive):
 
@@ -59,7 +59,7 @@ pip install -r requirements.txt
 ## Chuẩn bị dữ liệu
 
 1. Tạo thư mục `dataset/` ở gốc repo.
-2. Tải dataset từ `DATASET_LINK` và đặt vào `dataset/`.
+2. Tải dataset từ `LINK` và đặt vào `dataset/`.
 
 Ví dụ (wget):
 
@@ -72,6 +72,10 @@ unzip dataset/data.zip -d dataset/
 Nếu dùng Google Drive, bạn có thể dùng `gdown` hoặc script nhỏ để tải tự động.
 
 ---
+
+
+
+
 ## Liên hệ
 
 * Email: `phancuongtmtlhp@gmail.com`
